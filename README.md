@@ -18,7 +18,7 @@
   <img  align="center" alt="Node.js" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />                                              
   <img  align="center" alt="Docker" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />                 
   <img  align="center" alt="Prisma" height="30" widht="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />
-  <img align="center" alt="Vite" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />                  
+  <img align="center" alt="Vite" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />                  
 </div>
  
  <br>
